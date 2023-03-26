@@ -12,6 +12,7 @@
     tools:context=".MainActivity">
 
     <TextView
+
         android:id="@+id/cozumText"
         android:layout_width="match_parent"
         android:layout_height="108dp"
